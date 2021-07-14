@@ -10,5 +10,9 @@ h1, h2, h3, h4, h5, h6, p, span, li, a {
 .button {
     height:24px;
     padding: 9px;
-    background: #b8860b;
+    margin-top:18px;
+    background-color: #b8860b;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 14px;
+    color: black;
 }
