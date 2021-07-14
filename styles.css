@@ -8,9 +8,11 @@ h1, h2, h3, h4, h5, h6, p, span, li, a {
     color: white;
 }
 
+.topHeader {color: chocolate;}
+
 p {line-height: 125%;}
 
-a.nav, a.navon {
+a.nav {
     background-color: chocolate;
     display: inline-block;
     border: none;
@@ -23,12 +25,13 @@ a.nav, a.navon {
     font-weight: bold;
     color: black;
 
-a.navon {
-    background-color: #ff8c00;
-}
 
 a.nav:hover {
-    color: black;
     text-decoration: none;
     background-color: #ffffff;
+}
+
+.dark {
+    background-color: #1b1b1b;
+    padding: 12px;
 }
