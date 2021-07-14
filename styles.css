@@ -1,5 +1,6 @@
 .bodyStyle {
-    background: #ffffff url("./images/brcc_bg.png") no-repeat right top;
+    background: #383838 url("./images/brcc_bg.png") no-repeat right top;
+    margin: 12px;
 }
 
 h1, h2, h3, h4, h5, h6 {
