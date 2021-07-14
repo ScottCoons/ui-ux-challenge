@@ -7,17 +7,11 @@ h1, h2, h3, h4, h5, h6, p, span, li, a {
     font-family: "Gill Sans", sans-serif;
 }
 
-.button {
+a.button {
     height:24px;
     padding: 9px;
     margin-top:18px;
     background-color: #b8860b;
-    font-family: "Gill Sans", sans-serif;
-    font-size: 14px;
-    color: black;
-}
-
-a.button {
     font-family: "Gill Sans", sans-serif;
     font-size: 14px;
     color: black;
