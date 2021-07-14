@@ -9,18 +9,21 @@ h1, h2, h3, h4, h5, h6, p, span, li, a {
 
 a.button {
     display: block;
-    height:24px;
+    height:18px;
+    width: 100px;
     padding: 9px;
     margin-top:18px;
     background-color: #b8860b;
     font-family: "Gill Sans", sans-serif;
     font-size: 14px;
     color: black;
+    text-decoration: none;
 }
 
 a.button.hover {
     font-family: "Gill Sans", sans-serif;
     font-size: 14px;
     color: black;
+    text-decoration: none;
     background-color: #ffffff;
 }
