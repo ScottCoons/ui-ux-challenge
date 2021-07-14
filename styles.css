@@ -17,10 +17,11 @@ a.button {
     text-decoration: none;
     font-family: "Gill Sans", sans-serif;
     font-size: 14px;
+    font-weight: bold;
     color: black;
 }
 
-a.button.hover {
+a.button:hover {
     color: black;
     text-decoration: none;
     background-color: #ffffff;
