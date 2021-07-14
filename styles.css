@@ -1,5 +1,5 @@
 .bodyStyle {
-    background: #383838; url("images/brcc_bg.jpg") top left no-repeat
+    background: #383838; url("./images/brcc_bg.jpg") top left no-repeat;
     background: margin:0px; padding: 18px;
 }
 
