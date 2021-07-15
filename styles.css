@@ -4,12 +4,12 @@
 }
 
 div, h1, h2, h3, h4, h5, h6, p, span, li, a {
-    font-family: "Gill Sans", sans-serif;
-    color: white;
+    font-family: Arial, sans-serif;
+    color: black;
 }
 
 .h3 {
-    font-family: "Gill Sans", sans-serif;
+    font-family: Arial, sans-serif;
     color: white;
     font-weight: bold;
     size:14px;
@@ -39,7 +39,7 @@ div, h1, h2, h3, h4, h5, h6, p, span, li, a {
     flex: none;
     flex-shrink: 0;
     width: 310px;
-    color: white;
+    color: black;
     padding: 9px;
     margin: 9px;
 }
@@ -48,7 +48,7 @@ div, h1, h2, h3, h4, h5, h6, p, span, li, a {
     flex: none;
     flex-shrink: 0;
     width: 310px;
-    color: white;
+    color: black;
     padding: 9px;
     margin: 9px;
     background: #858585 url("./images/keithMcLeod.png") no-repeat right top;
@@ -57,14 +57,17 @@ div, h1, h2, h3, h4, h5, h6, p, span, li, a {
 .flexbox-item-2 {
     flex-grow: 2;
     flex-basis: 100;
-    color: white;
+    color: black;
     padding: 9px;
     margin: 9px;
 }
 
 .topHeader {color: chocolate;}
 
-p, span {line-height: 150%;}
+p, span {
+    line-height: 150%;
+    color: black;
+}
 
 a.nav {
     background-color: chocolate;
