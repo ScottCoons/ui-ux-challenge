@@ -69,6 +69,8 @@ p, span {
     color: black;
 }
 
+.white {color:white;}
+
 a.nav {
     background-color: chocolate;
     display: inline-block;
